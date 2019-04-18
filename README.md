@@ -1,4 +1,5 @@
-# simple-face-recognition
+# simple-face-recognition(not done)
+
 ## pip install:
 
 + opencv2:pip install opencv-python 
